@@ -3,3 +3,6 @@ def hello(name):
 
 def get_age(age):
     return age
+
+def get_name(name):
+    return name
